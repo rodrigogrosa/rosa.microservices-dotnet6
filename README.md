@@ -1,0 +1,1 @@
+# rosa.microservices-dotnet6
